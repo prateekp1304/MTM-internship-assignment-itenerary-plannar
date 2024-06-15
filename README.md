@@ -1,6 +1,7 @@
 # Itinerary Planner
 
 Itinerary Planner is a simple React application designed to help users manage a list of tasks for their travels. Users can add, view, update, and delete tasks, showcasing CRUD operations implemented with React Hooks and Material-UI for a modern user interface.
+Live Project Link(vercel): https://mtm-internship-assignment-itenerary-plannar.vercel.app/
 
 ## Features
 
