@@ -19,22 +19,22 @@ Itinerary Planner is a simple React application designed to help users manage a 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/frontend-yourname.git
-   cd frontend-yourname
+   - git clone https://github.com/yourusername/frontend-yourname.git
+   - cd frontend-yourname
 
 2. Install dependencies:
-   npm install
+   - npm install
 
 3. Start the development server:
-   npm start
+   - npm start
 
 ## File Structure
 
 src/
-components/
-TaskInput.js
-TaskItem.js
-TaskList.js
+   components/
+      TaskInput.js
+      TaskItem.js
+      TaskList.js
 App.js
 App.css
 index.js
